@@ -7,7 +7,7 @@ wasd -> move
 
 # build the project 
 clone or download this repo\
-cd to the location\ 
+cd to the location\
 run\
 ./gradlew\
 and then run\
