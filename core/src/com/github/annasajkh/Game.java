@@ -123,6 +123,6 @@ public class Game extends ApplicationAdapter
 	@Override
 	public void dispose()
 	{
-		
+		shapeRenderer.dispose();
 	}
 }
