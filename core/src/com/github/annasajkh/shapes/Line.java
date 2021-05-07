@@ -35,9 +35,9 @@ public class Line
         return lineIntersection(a.x, a.y, b.x, b.y, other.a.x, other.a.y, other.b.x, other.b.y);
     }
 	
-	public void draw(ShapeRenderer shapeRenderer)
-	{
-		shapeRenderer.rectLine(a,b,2);
-	}
+    public void draw(ShapeRenderer shapeRenderer)
+    {
+	shapeRenderer.rectLine(a,b,2);
+    }
 
 }
