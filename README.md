@@ -15,3 +15,6 @@ and then run\
 the jar should be in\
 desktop/build/libs\
 and you can run it
+
+reference
+https://youtu.be/TOEi6T2mtHo
